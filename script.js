@@ -1,8 +1,7 @@
 function webhook(){
-    fetch("https://aspect-hay-preference-partial.trycloudflare.com/webhook",{
+    fetch("https://surfaces-destinations-feed-shareware.trycloudflare.com/webhook", {
         method: "POST"
     });
-    return 200;
 }
 
 function test(){
