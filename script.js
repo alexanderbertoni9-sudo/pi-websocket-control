@@ -1,5 +1,5 @@
 function webhook(){
-    fetch("https://aspect-hay-preference-partial.trycloudflare.com",{
+    fetch("https://aspect-hay-preference-partial.trycloudflare.com/webhook",{
         method: "POST"
     });
     return 200;
