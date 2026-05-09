@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+    font-family: Inter;
+}
+
+h1{
+    font-size: (1rem, 3rem, 5rem);
+}
+
+button{
+    font-family: 'Courier';
+    background: royalblue;
+    color: white;
+    height: 300px; 
+    width: 60vw;
+    font-size: clamp(1rem, 3rem, 5rem);
+}
