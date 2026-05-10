@@ -1,5 +1,5 @@
 function webhook(){
-    fetch("https://creator-auctions-luggage-eva.trycloudflare.com/webhook", {
+    fetch("https://sets-transport-tears-whatever.trycloudflare.com/webhook", {
         method: "POST"
     });
 }
