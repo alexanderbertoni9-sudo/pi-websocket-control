@@ -1,5 +1,5 @@
 function webhook(){
-    fetch("https://printable-billy-soccer-connectivity.trycloudflare.com/webhook", {
+    fetch("https://creator-auctions-luggage-eva.trycloudflare.com/webhook", {
         method: "POST"
     });
 }
