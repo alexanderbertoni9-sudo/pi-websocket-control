@@ -1,5 +1,5 @@
 function webhook(){
-    fetch("https://surfaces-destinations-feed-shareware.trycloudflare.com/webhook", {
+    fetch("https://north-substitute-manager-zus.trycloudflare.com/webhook", {
         method: "POST"
     });
 }
