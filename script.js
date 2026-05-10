@@ -1,5 +1,5 @@
 function webhook(){
-    fetch("https://north-substitute-manager-zus.trycloudflare.com/webhook", {
+    fetch("https://printable-billy-soccer-connectivity.trycloudflare.com/webhook", {
         method: "POST"
     });
 }
