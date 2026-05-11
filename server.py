@@ -1,4 +1,7 @@
 from flask import Flask, request
+import os
+
+os.environ['PYTHONUNBUFFERED'] = '1'
 
 app = Flask(__name__)
 
