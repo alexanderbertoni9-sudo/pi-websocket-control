@@ -4,8 +4,7 @@ app = Flask(__name__)
 
 @app.route('/webhook', methods=['POST'])
 def webhook():
-    ip = request.headers.get('CF-Connecting-IP', request.remote_addr)
-    print(f'BUTTON PRESSED! From IP: {ip}')
+    print("Button was pressed!")
     return 'OK', 200
 
 if __name__ == '__main__':

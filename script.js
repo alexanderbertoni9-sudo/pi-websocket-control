@@ -1,5 +1,5 @@
 function webhook(){
-    fetch("https://sets-transport-tears-whatever.trycloudflare.com/webhook", {
+    fetch("https://homeless-discussions-furnishings-additionally.trycloudflare.com/webhook", {
         method: "POST"
     });
 }
